@@ -59,11 +59,60 @@
 
 .white1{
     display: flex;
-    transform: rotate(-345.605deg);
-    background-color: #fff;
-    width: 1.50965797vw;
+    transform: rotate(137deg);
+    background-color: rgb(158, 14, 14);
+    width: 1.6vw;
     height: 17vh;
     margin: auto;
     margin-left: 0.5vh;
     margin-top: -1vh;
+}
+
+.white2{
+    display: flex;
+    transform: rotate(224deg);
+    background-color: rgb(147, 109, 109);
+    width: 1.6vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
+}
+
+.white3{
+    display: flex;
+    transform: rotate(317deg);
+    background-color: rgb(162, 97, 97);
+    width: 1.6vw;
+    height: 7vh;
+    margin: auto;
+    margin-top: -1vh;
+}
+.white4{
+    display: flex;
+    transform: rotate(-25deg);
+    background-color: rgb(190, 77, 77);
+    width: 1.6vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -3vh;
+}
+
+.white5{
+    display: flex;
+    transform: rotate(305deg);
+    background-color: rgb(111, 90, 90);
+    width: 1.6vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -3vh;
+}
+
+.white6{
+    display: flex;
+    transform: rotate(337deg);
+    background-color: rgb(178, 145, 145);
+    width: 1.6vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -3vh;
 }
