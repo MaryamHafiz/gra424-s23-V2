@@ -1,9 +1,4 @@
-.top{
-    color: rgb(0, 0, 0);
-    font-family: "Helvetica Neue", Arial, sans-serif;
-}
-
-.container3{
+.container4{
     display: flex;
     width: 100%;
     height: 100%;
@@ -50,4 +45,25 @@
     height: 42.857143vh;
     margin: auto;
     margin-right: 0;
+}
+
+.sub-square{
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -28.17384281vh;
+}
+
+.white1{
+    display: flex;
+    transform: rotate(-345.605deg);
+    background-color: #fff;
+    width: 1.50965797vw;
+    height: 17vh;
+    margin: auto;
+    margin-left: 0.5vh;
+    margin-top: -1vh;
 }
