@@ -49,12 +49,14 @@
 
 .sub-square{
     display: flex;
-    width: 14.285714vw;
-    height: 14.285714vh;
+    /* width: 14.285714vw; */
+    /* height: 14.285714vh; */
     margin: auto;
     overflow: hidden;
-    position: relative;
-    top: -28.17384281vh;
+    margin-top: 15vh;
+    margin-left: 18vw;
+    position: absolute;
+    /* top: -28.17384281vh; */
 }
 
 .white1{
