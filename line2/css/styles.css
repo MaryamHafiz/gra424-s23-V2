@@ -62,7 +62,7 @@
 .white1{
     display: flex;
     transform: rotate(137deg);
-    background-color: rgb(158, 14, 14);
+    background-color: rgb(255, 255, 255);
     width: 1.6vw;
     height: 17vh;
     margin: auto;
@@ -73,7 +73,7 @@
 .white2{
     display: flex;
     transform: rotate(224deg);
-    background-color: rgb(147, 109, 109);
+    background-color: rgb(255, 255, 255);
     width: 1.6vw;
     height: 17vh;
     margin: auto;
@@ -83,7 +83,7 @@
 .white3{
     display: flex;
     transform: rotate(317deg);
-    background-color: rgb(162, 97, 97);
+    background-color: rgb(255, 255, 255);
     width: 1.6vw;
     height: 7vh;
     margin: auto;
@@ -92,7 +92,7 @@
 .white4{
     display: flex;
     transform: rotate(-25deg);
-    background-color: rgb(190, 77, 77);
+    background-color: rgb(255, 255, 255);
     width: 1.6vw;
     height: 17vh;
     margin: auto;
@@ -102,7 +102,7 @@
 .white5{
     display: flex;
     transform: rotate(305deg);
-    background-color: rgb(111, 90, 90);
+    background-color: rgb(255, 255, 255);
     width: 1.6vw;
     height: 17vh;
     margin: auto;
@@ -112,7 +112,7 @@
 .white6{
     display: flex;
     transform: rotate(337deg);
-    background-color: rgb(178, 145, 145);
+    background-color: rgb(255, 255, 255);
     width: 1.6vw;
     height: 17vh;
     margin: auto;
