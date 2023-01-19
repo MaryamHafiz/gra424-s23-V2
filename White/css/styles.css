@@ -1,3 +1,7 @@
+.box{
+    padding-top: 10%;
+    background-color: white;
+}
 .container2{
     display: flex;
     width: 100%;
