@@ -286,3 +286,22 @@
     /* margin: auto; */
     transform-origin: 0% 0%;
 }
+.addition-square {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -85.2vh;
+}
+.white-one-left2{
+    display: flex;
+    transform: rotate(60deg);
+    background-color: rgb(114, 62, 62);
+    width: 1.50965797vw;
+    height: 95vh;
+    margin: auto;
+    margin-left: -17vh;
+    margin-top: -40vh;
+}

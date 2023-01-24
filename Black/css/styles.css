@@ -1,6 +1,7 @@
 .box{
-    padding-top: 10%;
+    padding-top: 7%;
     background-color: white;
+
 }
 .container{
     display: flex;
@@ -14,7 +15,7 @@
     background-color: white;
     width:71.428571vw;
     height: 71.428571vh;
-    border: 0.25pt solid #999999;
+    border: 0.25pt solid #d4d4d4;
     border-style: solid;
     border: width 1px;
     margin:auto;
@@ -25,7 +26,7 @@
 .square2{
     display: flex;
     background-color: white;
-    border: 0.25pt solid #999999;
+    border: 0.25pt solid #d4d4d4;
     border: width 1px;
     width: 42.857143vw;
     height: 42.857143vh;
